@@ -1,1 +1,3 @@
-# AI-course
+# itri_ml_course
+
+Yu-Huan, Chang
